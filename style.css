@@ -1,0 +1,57 @@
+body{
+    background: gray;
+}
+header{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+html{
+    color: antiquewhite;
+}
+#bal{
+    float: left;
+}
+#jobb{
+    float: right;
+}
+table{
+    border: 2px solid black;
+    width: 400px;
+    text-align: center;
+    background: rgb(40, 40, 40);
+    border-radius: 5px;
+    margin-top: 25px;
+
+}
+#tbal{
+    float: left;
+    margin-left: 50px;
+}
+#tjobb{
+    float: right;
+    margin-right: 50px;
+}
+#navtab{
+    margin-right: 50px;
+}
+#navt{
+    margin-right: 50px;
+}
+#bottom, hr{
+    clear: both;
+    text-align: center;
+}
+#haz{
+    width: 600px;
+    height: 500px;
+    margin-left: 150px;
+    margin-top: 100px;
+    border: 2px antiquewhite solid;
+    border-radius: 5px;
+}
+aside{
+    height: 700px;
+}
